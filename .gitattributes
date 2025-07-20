@@ -1,2 +1,27 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Optional npm cache directory
+.npm/
+
+# Output of build tools
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
